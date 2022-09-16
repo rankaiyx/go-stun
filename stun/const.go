@@ -16,7 +16,7 @@ package stun
 
 // Default server address and client name.
 const (
-	DefaultServerAddr   = "stun.ekiga.net:3478"
+	DefaultServerAddr   = "106.55.202.194:3478" // stun.qq.com --> 106.55.202.194
 	DefaultSoftwareName = "StunClient"
 )
 
